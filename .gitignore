@@ -2,6 +2,5 @@
 .gemini/
 *.img
 *.img.xz
-*.png
 __pycache__/
 .DS_Store

@@ -2,7 +2,7 @@
 
 A visually appealing, real-time terminal user interface (TUI) for monitoring and managing your Pi-hole (v6+) instance. Built with Python, `rich`, and `uv`.
 
-![Screenshot Placeholder](ScreenShot%202025-12-31TZ12.12.24.png)
+![Pi-hole TUI Dashboard Screenshot](pihole-tui-screenshot.png)
 
 ## Features
 
